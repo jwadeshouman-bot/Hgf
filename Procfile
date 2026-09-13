@@ -1,0 +1,1 @@
+web: gunicorn M7MAD_FF_AI:app
